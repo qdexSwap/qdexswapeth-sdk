@@ -42,5 +42,10 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
+
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
