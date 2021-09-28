@@ -11,7 +11,7 @@ git clone https://github.com/qdexSwap/qdexswapeth-sdk.git
 Move into the uniswap-sdk working directory
 
 ```sh
-cd qdexswap-sdk/
+cd qdexswapeth-sdk/
 ```
 
 Install dependencies
